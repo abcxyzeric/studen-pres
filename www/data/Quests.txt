@@ -1,0 +1,386 @@
+<quest 1:The Beginning of the Game|1|0>
+Go outside and head towards the abandoned hospital 
+to start the conquest.
+
+The designated location from the principal is an abandoned 
+hospital on the outskirts of town.
+A spot that evokes his eerie personality.
+Let's prepare as quickly as possible to rescue Mai.
+</quest>
+
+<quest 2:Where should we head next?|2|0>
+Head towards the abandoned warehouse and conquer it.
+
+The next location designated by the principal is the 
+abandoned warehouse.
+Dimly lit and gloomy spot.
+Let's make thorough preparations and challenge it.
+</quest>
+
+<quest 3:The road still continues.|3|0>
+Head to the site of the factory and conquer it.
+
+The location designated by the principal is 
+the site of a former factory.
+A spot filled with the scent of machine oil.
+Let's prepare ourselves and face this dangerous place.
+</quest>
+
+<quest 4:One more push.|4|0>
+Head towards the abandoned building 
+and proceed with the conquest.
+
+The location designated by the principal 
+is an abandoned building.
+A spot where dirt and other stains are noticeable.
+Let's not neglect our preparations and face it.
+</quest>
+
+<quest 5:The time for the final battle has come.|5|0>
+Head to the Western-style mansion and conquer it.
+
+The place designated by the principal is 
+a Western-style mansion.
+A large mansion located on the outskirts of town.
+A spot with a different atmosphere than before.
+Let's challenge with full preparation.
+</quest>
+
+<quest 6:To the hidden dungeon.|6|0>
+Head to the hidden dungeon's old school building.
+
+The location designated by the principal 
+is the old school building.
+A spot where the deterioration has progressed, 
+giving off a distinct old-school atmosphere.
+Let's not hesitate to challenge the bonus hidden area.
+You may be able to see his true determination.
+</quest>
+
+<quest 7:Looking for lost items.|1|1>
+Find a lost item (employee ID card) in town 
+and return it to the requester.
+
+What a disaster... I dropped my employee ID card!
+I hate to ask, but could you help me find it?
+I would be in big trouble without that!
+
+Client: A male salaryman in the office district.
+</quest>
+
+<quest 8:Looking for Lost Items 2|1|1>
+Find lost items (wallet), 
+and return them to the owner once found.
+
+I dropped my wallet somewhere, 
+do you know where it is?
+If you find it, just let me know at that time.
+Please help me when you have some free time!
+
+Client: There is a man located on the road 
+        leading from Kamizono Town (outer map).
+</quest>
+
+<quest 9:I don't have enough money.|1|1>
+Purchasing juice from a vending machine. 
+Giving juice to a child.
+
+I had enough money when I checked earlier.
+But when I noticed, it was gone... 
+I can't buy any juice.
+Ugh... What should I do?
+
+Client: A child in front of the vending machine 
+        in Kamizono Street.
+</quest>
+
+<quest 10:I want to drink tea.|1|1>
+Buy tea from the vending machine. 
+Pass the tea to the client.
+
+It's tough for the elderly to walk outside, 
+but it's for the sake of their health.
+But, I moved too much and got really tired.
+Sorry, but could you buy me some tea?
+I'll pay you back later... 
+Please, I'm begging you!
+
+Client: An elderly woman sitting on a bench 
+        in the center of the alleyway.
+</quest>
+
+<quest 11:Guide the way.|1|1>
+Let's give directions to people who are lost.
+
+I'm sorry.
+I got lost around here 
+because I'm not familiar with the area.
+I'm sorry, but could you please tell me the way?
+
+Client: There is a man lost in the small path (center).
+</quest>
+
+<quest 12:Give me a slap.|1|1>
+Slap the opponent to satisfy them.
+
+I want to be slapped by a cute girl like Ojou-chan.
+You can inflict pain on a pretty girl.
+It feels so good and exciting.
+So please, I'm begging you!
+
+Client: A man is inside a residential house in Gomi Street.
+</quest>
+
+<quest 13:Cleaning the storage room.|1|1>
+Clean up the storage shed.
+
+Please help me with cleaning up the storage room!
+It shouldn't take much time since 
+it's just a light cleaning and moving objects.
+I understand that it's troublesome, 
+but could you help me just a little bit?
+Please, I beg you!
+
+Client: There is a male teacher in the staff room 
+        of Kamizono Academy.
+</quest>
+
+<quest 14:Poster Removal|1|1>
+Remove the posters within the designated area as requested.
+
+Can you please take down the current one 
+because I'm going to put up a new poster?
+I want you to help me because it's difficult to do it alone.
+You don't need to be polite, so please, go ahead!
+
+Client: There is a woman located on the path (south side).
+</quest>
+
+<quest 15:Participate in the flash sale.|1|1>
+Participate in a time-limited sale with the client.
+
+I really want something!
+So let's go to hell together.
+No, could you please rush to the flash sale for me?
+Please do your best to buy things as cheaply as possible!
+
+Client: A female student is located on the central side of the road 
+        that can be reached from Kamizono Street.
+</quest>
+
+<quest 16:I want that rare item, Part 1.|1|1>
+Obtain rare items from the recycle shop 
+and deliver them to the client.
+
+I want that because there's something that is rarely obtainable.
+If you're the owner of a thrift shop, I think you should have it.
+But even if I ask, you probably won't answer me honestly.
+Could you please ask for me instead and see if you can obtain it?
+Of course, I'll pay the money.
+Don't mistake me for a general store, okay?
+
+Client: A man sitting on the bench in front of the library 
+        in Shinen Street.
+</quest>
+
+<quest 17:I want that rare item, Part 2.|1|1>
+Obtain rare items from the recycle shop 
+and deliver them to the client.
+
+I want you to get another rare item at the recycling shop.
+If you were able to obtain it so brilliantly last time,
+you should be able to do it again.
+I know it's a hassle, but please!
+
+Client: A man sitting on a bench in front of the library 
+        in Kamizono Street.
+</quest>
+
+<quest 18:I want that rare item, Part 3.|1|1>
+Obtain rare items at the recycling shop 
+and deliver them to the client.
+
+I'm sorry to bother you again, 
+but could I ask for one more favor?
+Please obtain another rare item for me at the recycling shop.
+Since it's the third time, 
+there shouldn't be any problems this time, right?
+So please, I'm asking you!
+
+Client: A man sitting on the bench in front of the library 
+        in Kamiizono Street.
+</quest>
+
+<quest 19:Seeking junk items.|1|1>
+If you have any junk items, 
+let's sell them to the client.
+
+To others, it may look like just trash.
+But it may also have potential value for other people.
+So if you find something like that, please sell it to me!
+I think the junk items themselves are in buildings 
+that have been ruined or turned into ruins.
+
+Client: A man is present in Gomi Street.
+</quest>
+
+<quest 20:In search of further junk items.|1|1>
+Let's sell a different piece of junk to the client this time.
+
+If you have any other junk items 
+besides the ones from last time, please bring them.
+Of course, I'll make sure to buy it properly.
+Please help!
+This item should also be in the building 
+that is in a state of ruins over here!
+
+Client: A man in Gomi Street.
+</quest>
+
+<quest 21:Deal with the molester.|1|1>
+Defeat the molester who appears at the general store.
+
+Many girls are victims of molestation.
+Can't we somehow do it with the President's power?
+I'm sorry to bother you when you're busy, 
+but I have no choice but to rely on the president!
+Defeat the molester, the enemy of women!
+
+Client: Female student present in the entrance area 
+        of Kamizono Academy.
+</quest>
+
+<quest 22:I want someone to talk to.|1|1>
+I will keep the conversation 
+with the bored hospitalized patient (elderly person).
+
+I won't complain about it anymore.
+Can you be my conversation partner for just a little while?
+I hope you can fulfill the selfishness of the elderly.
+Hey, isn't it fine?
+
+Client: Elderly person located on the 2nd floor of the hospital.
+</quest>
+
+<quest 23:Clean the room.|1|1>
+Clean and tidy up the room.
+
+I want to clean my room, but I'm just not good at cleaning.
+When I actually start, it just gets even messier...
+Could you please do me a favor? Would you mind cleaning instead of me?
+I won't ask for everything to be beautiful!
+Please help me with the cleaning, even if it's just a little bit!
+
+Client: There is a man inside a residential house in Gomi Street.
+</quest>
+
+<quest 24:Delivery|1|1>
+Deliver the documents to the designated location.
+
+I'm sorry, but could you deliver this document to that person for me?
+Sure, I should be on the second floor of the office.
+Please deliver it as soon as possible.
+Please help me!
+
+Client: Male employee in the office.
+</quest>
+
+<quest 25:Seeking fruit.|1|1>
+Deliver delicious fruits to the client.
+
+There is a tree outside the town that bears delicious fruits.
+Can you collect the fruits from that tree and give them to me?
+Just one is fine, please!
+
+Client: A man sitting on a bench at Kamizono Shrine.
+</quest>
+
+<quest 26:I want to eat a bento.|1|1>
+Deliver the boxed lunch to the client.
+
+I'm so hungry and don't know what to do.
+I understand that it's a pathetic request, but please grant me a bento.
+Could you give it to me?
+I'll rely on your handmade work, so please!
+
+Client: There is a man in a rented conference room in the office district.
+</quest>
+
+<quest 27:Not enough energy.|1|1>
+Give the powerful energy drink to the client.
+
+I don't have the energy to continue working even though there is more work to do afterwards.
+Is there anyone who can forcefully make me feel energized?
+Energy drinks - especially the powerful ones.
+If you have it, please give it to me!
+
+Client: A man is in the reception area of the office.
+</quest>
+
+<quest 28:Please give me some paper.|1|1>
+Hand the toilet paper to the client.
+
+It's all good until I entered the restroom, but there's no toilet paper when it's crucial.
+Sorry, but I need toilet paper—Toilet paper!
+Please give me paper for my pitiful self.
+Please, please, I beg you. Seriously!
+
+Client: There is a male student in the boys' restroom at Kamizono Academy.
+</quest>
+
+<quest 29:Please deliver the forgotten items.|1|1>
+Hand over the lost file to the school nurse.
+
+I forgot something on the teacher's podium in the classroom.
+So, could you please bring me the forgotten items instead?
+It would be nice if you could go by yourself, but since it's a rare opportunity, I'll go with you♪
+Please collect my forgotten items for me.
+
+Client: The school nurse is in the infirmary at Kamizono Academy.
+</quest>
+
+<quest 30:Heal the injury.|1|1>
+Give the healing medicine to the client.
+
+I can't play because I got a minor injury.
+Does my sister have any wound medicine or something?
+I would be happy if you could give it to me if you have it.
+I wonder if it's no good...
+
+Client: A girl sitting on a bench in Kamizono Park.
+</quest>
+
+<quest 31:Desire and Romance|1|1>
+Fulfilling the client's wish.
+
+Stamp your foot on my crotch!
+Please. Is it okay?
+Step on it without hesitation.
+Please do it as requested!
+
+Client: There is a man in the private room on the 2nd floor of the adult shop.
+</quest>
+
+<quest 32:Please hydrate.|1|1>
+Collect water from the changing room refrigerator and hand it over to the client.
+
+I'm so tired, I can't move anymore.
+I don't have the energy to take a single step... Hey, I have a favor to ask.
+Could you bring me my water from the dressing room, please?
+I understand that it's troublesome, but please, I really request it.
+My throat is so dry that it feels like it's going to give out.
+
+Client: There is a female student in the Kaminoki Academy Kendo Dojo.
+</quest>
+
+<quest 33:Nutrition replenishment with jelly|1|1>
+Give the Stamina Jelly to the client.
+
+Excuse me, but could you give me some jelly to replenish my stamina?
+I want a product called "Stamina Jelly".
+Please buy it for me because it is sold on the 1st floor of the hospital.
+If it already exists, there is no need to buy it...
+Give me some stamina jelly no matter what!
+
+Client: Male patient located on the 3rd floor of the hospital.
+</quest>

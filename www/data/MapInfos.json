@@ -1,0 +1,2307 @@
+[
+null,
+{
+"id": 1,
+"expanded": true,
+"name": "For New Game",
+"order": 1,
+"parentId": 0,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 2,
+"expanded": true,
+"name": "World Map",
+"order": 23,
+"parentId": 0,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 3,
+"expanded": false,
+"name": "Main Town",
+"order": 24,
+"parentId": 0,
+"scrollX": 1131,
+"scrollY": 629
+},
+{
+"id": 4,
+"expanded": false,
+"name": "Convenience Store Interior (Ero 3)",
+"order": 25,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 457
+},
+{
+"id": 5,
+"expanded": false,
+"name": "Library 1F (Ero 12)",
+"order": 28,
+"parentId": 3,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 6,
+"expanded": false,
+"name": "Academy Entrance",
+"order": 74,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 7,
+"expanded": false,
+"name": "Library 2F",
+"order": 29,
+"parentId": 5,
+"scrollX": 1638,
+"scrollY": 906
+},
+{
+"id": 8,
+"expanded": false,
+"name": "Private Kamizono Academy",
+"order": 70,
+"parentId": 0,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 9,
+"expanded": true,
+"name": "Sports Warehouse",
+"order": 71,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 10,
+"expanded": false,
+"name": "Home",
+"order": 95,
+"parentId": 0,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 11,
+"expanded": false,
+"name": "Convenience Store: Backyard",
+"order": 26,
+"parentId": 4,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 12,
+"expanded": false,
+"name": "Fortune Teller Interior (Ero 6)",
+"order": 30,
+"parentId": 3,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 13,
+"expanded": true,
+"name": "Ending: Orgy: F*** Room",
+"order": 151,
+"parentId": 0,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 14,
+"expanded": false,
+"name": "Patisserie (Ero 11)",
+"order": 41,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 507
+},
+{
+"id": 15,
+"expanded": false,
+"name": "Office District (Ero 7)",
+"order": 104,
+"parentId": 0,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 16,
+"expanded": false,
+"name": "Shop Office (Happening 2)",
+"order": 50,
+"parentId": 41,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 17,
+"expanded": false,
+"name": "Park",
+"order": 117,
+"parentId": 0,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 18,
+"expanded": false,
+"name": "Road (Fork)",
+"order": 121,
+"parentId": 0,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 19,
+"expanded": true,
+"name": "Slum Town: Gomi Street",
+"order": 136,
+"parentId": 0,
+"scrollX": 1131,
+"scrollY": 1111
+},
+{
+"id": 20,
+"expanded": false,
+"name": "Principal's and Mai's Interaction Room",
+"order": 147,
+"parentId": 0,
+"scrollX": 811,
+"scrollY": 607
+},
+{
+"id": 21,
+"expanded": false,
+"name": "Student Council Room",
+"order": 72,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 22,
+"expanded": true,
+"name": "Ending: Student Council Room",
+"order": 149,
+"parentId": 0,
+"scrollX": 811,
+"scrollY": 647
+},
+{
+"id": 23,
+"expanded": false,
+"name": "Ending: Married Couple End",
+"order": 150,
+"parentId": 0,
+"scrollX": 819,
+"scrollY": 541
+},
+{
+"id": 24,
+"expanded": false,
+"name": "Dungeon 3: Factory Ruins",
+"order": 171,
+"parentId": 0,
+"scrollX": 965,
+"scrollY": 593
+},
+{
+"id": 25,
+"expanded": false,
+"name": "General Store (Happening 9)",
+"order": 31,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 603
+},
+{
+"id": 26,
+"expanded": false,
+"name": "Public Bath Entrance",
+"order": 34,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 527
+},
+{
+"id": 27,
+"expanded": true,
+"name": "Home 1F",
+"order": 96,
+"parentId": 10,
+"scrollX": 821,
+"scrollY": 680
+},
+{
+"id": 28,
+"expanded": true,
+"name": "Grounds",
+"order": 73,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 29,
+"expanded": true,
+"name": "Classroom 1",
+"order": 77,
+"parentId": 8,
+"scrollX": 1131,
+"scrollY": 774
+},
+{
+"id": 30,
+"expanded": false,
+"name": "Road (for Happening 3)",
+"order": 125,
+"parentId": 18,
+"scrollX": 811,
+"scrollY": 507
+},
+{
+"id": 31,
+"expanded": true,
+"name": "Girls' Toilet",
+"order": 78,
+"parentId": 8,
+"scrollX": 1638,
+"scrollY": 906
+},
+{
+"id": 32,
+"expanded": false,
+"name": "Boys' Toilet",
+"order": 79,
+"parentId": 31,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 33,
+"expanded": true,
+"name": "Hallway",
+"order": 80,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 34,
+"expanded": true,
+"name": "Underground Cafeteria",
+"order": 90,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 35,
+"expanded": false,
+"name": "Cafe Interior (Ero 5)",
+"order": 38,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 555
+},
+{
+"id": 36,
+"expanded": false,
+"name": "General House 1",
+"order": 44,
+"parentId": 3,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 37,
+"expanded": true,
+"name": "Home 2F",
+"order": 97,
+"parentId": 10,
+"scrollX": 811,
+"scrollY": 449
+},
+{
+"id": 38,
+"expanded": false,
+"name": "Patisserie Ero Scene",
+"order": 42,
+"parentId": 14,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 39,
+"expanded": false,
+"name": "Cafe Toilet",
+"order": 39,
+"parentId": 35,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 40,
+"expanded": false,
+"name": "Massage Parlor (Hap 1 Ero 4)",
+"order": 46,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 647
+},
+{
+"id": 41,
+"expanded": false,
+"name": "Recycle Shop (Ero 8)",
+"order": 49,
+"parentId": 3,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 42,
+"expanded": false,
+"name": "Dungeon 1: Abandoned Hospital",
+"order": 152,
+"parentId": 0,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 43,
+"expanded": true,
+"name": "Abandoned Hospital: Area 1",
+"order": 153,
+"parentId": 42,
+"scrollX": 811,
+"scrollY": 599
+},
+{
+"id": 44,
+"expanded": true,
+"name": "Inside Public Bath (Happening 8)",
+"order": 35,
+"parentId": 26,
+"scrollX": 1638,
+"scrollY": 906
+},
+{
+"id": 45,
+"expanded": false,
+"name": "Dungeon 2: Abandoned Warehouse",
+"order": 161,
+"parentId": 0,
+"scrollX": 811,
+"scrollY": 503
+},
+{
+"id": 46,
+"expanded": false,
+"name": "Japanese-style Toilet",
+"order": 118,
+"parentId": 17,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 47,
+"expanded": true,
+"name": "Road (Wall Butt: Ero 9)",
+"order": 122,
+"parentId": 18,
+"scrollX": 811,
+"scrollY": 459
+},
+{
+"id": 48,
+"expanded": false,
+"name": "Dungeon 4: Abandoned Building",
+"order": 183,
+"parentId": 0,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 49,
+"expanded": true,
+"name": "Ambush F*** Room (Ero 13)",
+"order": 137,
+"parentId": 19,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 50,
+"expanded": true,
+"name": "Bar",
+"order": 56,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 647
+},
+{
+"id": 51,
+"expanded": false,
+"name": "Apartment Room 2",
+"order": 54,
+"parentId": 55,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 52,
+"expanded": true,
+"name": "Road (Back Alley: Ero 14)",
+"order": 123,
+"parentId": 18,
+"scrollX": 819,
+"scrollY": 445
+},
+{
+"id": 53,
+"expanded": true,
+"name": "Slum Town Room 1",
+"order": 138,
+"parentId": 19,
+"scrollX": 811,
+"scrollY": 507
+},
+{
+"id": 54,
+"expanded": false,
+"name": "Road (Lanes: Ero 10)",
+"order": 124,
+"parentId": 18,
+"scrollX": 811,
+"scrollY": 644
+},
+{
+"id": 55,
+"expanded": false,
+"name": "Apartment Room 1",
+"order": 53,
+"parentId": 3,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 56,
+"expanded": false,
+"name": "Slum Town Room 2",
+"order": 139,
+"parentId": 19,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 57,
+"expanded": false,
+"name": "Pharmacy",
+"order": 57,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 555
+},
+{
+"id": 58,
+"expanded": false,
+"name": "Normal Road (including Hap 7)",
+"order": 58,
+"parentId": 3,
+"scrollX": 869,
+"scrollY": 593
+},
+{
+"id": 59,
+"expanded": true,
+"name": "Hospital",
+"order": 61,
+"parentId": 3,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 60,
+"expanded": false,
+"name": "Hospital 2F",
+"order": 62,
+"parentId": 59,
+"scrollX": 811,
+"scrollY": 575
+},
+{
+"id": 61,
+"expanded": true,
+"name": "Slum Town Room 3",
+"order": 140,
+"parentId": 19,
+"scrollX": 982.8,
+"scrollY": 543.6
+},
+{
+"id": 62,
+"expanded": true,
+"name": "Office Reception",
+"order": 105,
+"parentId": 15,
+"scrollX": 973.1999999999999,
+"scrollY": 608.4
+},
+{
+"id": 63,
+"expanded": false,
+"name": "Office Toilet",
+"order": 106,
+"parentId": 15,
+"scrollX": 982.8,
+"scrollY": 543.6
+},
+{
+"id": 64,
+"expanded": true,
+"name": "Office Interior",
+"order": 107,
+"parentId": 15,
+"scrollX": 973.1999999999999,
+"scrollY": 679.1999999999999
+},
+{
+"id": 65,
+"expanded": true,
+"name": "Office 2F",
+"order": 108,
+"parentId": 15,
+"scrollX": 982.8,
+"scrollY": 543.6
+},
+{
+"id": 66,
+"expanded": false,
+"name": "Apartment Room 3",
+"order": 55,
+"parentId": 55,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 67,
+"expanded": false,
+"name": "General House 2",
+"order": 45,
+"parentId": 36,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 68,
+"expanded": true,
+"name": "Abandoned Hospital: Area 2",
+"order": 156,
+"parentId": 42,
+"scrollX": 1081.3333333333333,
+"scrollY": 1172
+},
+{
+"id": 69,
+"expanded": true,
+"name": "Abandoned Hospital: Area 3",
+"order": 159,
+"parentId": 42,
+"scrollX": 1073,
+"scrollY": 703
+},
+{
+"id": 70,
+"expanded": true,
+"name": "Abandoned Hospital: Boss Area",
+"order": 160,
+"parentId": 42,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 71,
+"expanded": true,
+"name": "Abandoned Warehouse: Area 1",
+"order": 162,
+"parentId": 45,
+"scrollX": 1081.3333333333333,
+"scrollY": 1049.3333333333333
+},
+{
+"id": 72,
+"expanded": false,
+"name": "Abandoned Building: Area 1",
+"order": 184,
+"parentId": 48,
+"scrollX": 1212,
+"scrollY": 593
+},
+{
+"id": 73,
+"expanded": true,
+"name": "Abandoned Warehouse: Area 2",
+"order": 163,
+"parentId": 45,
+"scrollX": 1081.3333333333333,
+"scrollY": 884
+},
+{
+"id": 74,
+"expanded": false,
+"name": "Abandoned Warehouse: Area 3",
+"order": 164,
+"parentId": 45,
+"scrollX": 1081.3333333333333,
+"scrollY": 1076
+},
+{
+"id": 75,
+"expanded": false,
+"name": "Abandoned Warehouse: Area 8",
+"order": 165,
+"parentId": 45,
+"scrollX": 811,
+"scrollY": 563
+},
+{
+"id": 76,
+"expanded": true,
+"name": "Abandoned Warehouse: Boss Area",
+"order": 166,
+"parentId": 45,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 77,
+"expanded": false,
+"name": "Dungeon 5: Western-style Mansion",
+"order": 193,
+"parentId": 0,
+"scrollX": 1092,
+"scrollY": 593
+},
+{
+"id": 78,
+"expanded": true,
+"name": "Factory Ruins: Area 1",
+"order": 172,
+"parentId": 24,
+"scrollX": 821,
+"scrollY": 651
+},
+{
+"id": 79,
+"expanded": false,
+"name": "Factory Ruins: Area 5",
+"order": 177,
+"parentId": 24,
+"scrollX": 1081.3333333333333,
+"scrollY": 712
+},
+{
+"id": 80,
+"expanded": false,
+"name": "Dungeon 6: Old School Building",
+"order": 218,
+"parentId": 0,
+"scrollX": 869,
+"scrollY": 463
+},
+{
+"id": 81,
+"expanded": true,
+"name": "Abandoned Building: Area 2",
+"order": 185,
+"parentId": 48,
+"scrollX": 1216,
+"scrollY": 1124
+},
+{
+"id": 82,
+"expanded": true,
+"name": "Abandoned Building: Area 3",
+"order": 186,
+"parentId": 48,
+"scrollX": 1216,
+"scrollY": 774.6666666666666
+},
+{
+"id": 83,
+"expanded": false,
+"name": "Factory Ruins: Area 4",
+"order": 176,
+"parentId": 24,
+"scrollX": 1081.3333333333333,
+"scrollY": 760
+},
+{
+"id": 84,
+"expanded": true,
+"name": "Factory Ruins: Boss Area",
+"order": 178,
+"parentId": 24,
+"scrollX": 811,
+"scrollY": 559
+},
+{
+"id": 85,
+"expanded": true,
+"name": "Abandoned Building: Boss Area",
+"order": 188,
+"parentId": 48,
+"scrollX": 869,
+"scrollY": 467
+},
+{
+"id": 86,
+"expanded": true,
+"name": "Abandoned Building: Area 8",
+"order": 187,
+"parentId": 48,
+"scrollX": 811,
+"scrollY": 449
+},
+{
+"id": 87,
+"expanded": true,
+"name": "Recollection Room",
+"order": 99,
+"parentId": 10,
+"scrollX": 811,
+"scrollY": 764
+},
+{
+"id": 88,
+"expanded": true,
+"name": "Mansion: Area 1",
+"order": 194,
+"parentId": 77,
+"scrollX": 1081,
+"scrollY": 604
+},
+{
+"id": 89,
+"expanded": true,
+"name": "Mansion: Area 2",
+"order": 195,
+"parentId": 77,
+"scrollX": 1081.3333333333333,
+"scrollY": 712
+},
+{
+"id": 90,
+"expanded": true,
+"name": "Mansion: Area 3: 2F",
+"order": 196,
+"parentId": 77,
+"scrollX": 1081.3333333333333,
+"scrollY": 798.6666666666666
+},
+{
+"id": 91,
+"expanded": true,
+"name": "Mansion: Area 8: 5F",
+"order": 197,
+"parentId": 77,
+"scrollX": 1081.3333333333333,
+"scrollY": 884
+},
+{
+"id": 92,
+"expanded": true,
+"name": "Mansion: Area 9",
+"order": 199,
+"parentId": 77,
+"scrollX": 1013,
+"scrollY": 593
+},
+{
+"id": 93,
+"expanded": false,
+"name": "Mansion: Area 8: Toilet",
+"order": 198,
+"parentId": 77,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 94,
+"expanded": true,
+"name": "Old School Building: Area 2",
+"order": 221,
+"parentId": 80,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 95,
+"expanded": true,
+"name": "Old School Building: Area 3",
+"order": 222,
+"parentId": 80,
+"scrollX": 1081.3333333333333,
+"scrollY": 794.6666666666666
+},
+{
+"id": 96,
+"expanded": false,
+"name": "Old School Building: Area 1",
+"order": 219,
+"parentId": 80,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 97,
+"expanded": false,
+"name": "Old School Building: Toilet",
+"order": 220,
+"parentId": 80,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 98,
+"expanded": true,
+"name": "Old School Building: Area 4",
+"order": 223,
+"parentId": 80,
+"scrollX": 1092,
+"scrollY": 593.3333333333334
+},
+{
+"id": 99,
+"expanded": true,
+"name": "Old School Building: Area 9",
+"order": 224,
+"parentId": 80,
+"scrollX": 1081,
+"scrollY": 889
+},
+{
+"id": 100,
+"expanded": true,
+"name": "Old School Building: Boss Area",
+"order": 225,
+"parentId": 80,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 101,
+"expanded": true,
+"name": "Meeting with previous character (Gal)",
+"order": 230,
+"parentId": 0,
+"scrollX": 811,
+"scrollY": 503
+},
+{
+"id": 102,
+"expanded": true,
+"name": "Casual and other storage location",
+"order": 233,
+"parentId": 0,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 103,
+"expanded": false,
+"name": "Inside Public Bath (for Hap 8 execution)",
+"order": 36,
+"parentId": 44,
+"scrollX": 811,
+"scrollY": 640
+},
+{
+"id": 104,
+"expanded": true,
+"name": "Survival Shop",
+"order": 69,
+"parentId": 3,
+"scrollX": 811,
+"scrollY": 599
+},
+{
+"id": 105,
+"expanded": false,
+"name": "Dojo Changing Room",
+"order": 86,
+"parentId": 160,
+"scrollX": 811,
+"scrollY": 507
+},
+{
+"id": 106,
+"expanded": true,
+"name": "World Map: Prologue",
+"order": 4,
+"parentId": 1,
+"scrollX": 1061,
+"scrollY": 651
+},
+{
+"id": 107,
+"expanded": false,
+"name": "Student Council Room: for Prologue",
+"order": 2,
+"parentId": 1,
+"scrollX": 811,
+"scrollY": 531
+},
+{
+"id": 108,
+"expanded": true,
+"name": "Sports Warehouse: for Prologue",
+"order": 3,
+"parentId": 1,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 109,
+"expanded": true,
+"name": "Tutorial Area",
+"order": 154,
+"parentId": 43,
+"scrollX": 819,
+"scrollY": 453
+},
+{
+"id": 110,
+"expanded": true,
+"name": "First Interaction between Principal and Mai",
+"order": 157,
+"parentId": 68,
+"scrollX": 811,
+"scrollY": 611
+},
+{
+"id": 111,
+"expanded": true,
+"name": "World Map after Dungeon Clear",
+"order": 232,
+"parentId": 112,
+"scrollX": 811,
+"scrollY": 703
+},
+{
+"id": 112,
+"expanded": true,
+"name": "Kamizono Shrine",
+"order": 231,
+"parentId": 0,
+"scrollX": 811,
+"scrollY": 731
+},
+{
+"id": 113,
+"expanded": false,
+"name": "End Roll",
+"order": 5,
+"parentId": 1,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 114,
+"expanded": true,
+"name": "Private Video Store",
+"order": 234,
+"parentId": 0,
+"scrollX": 811,
+"scrollY": 1127
+},
+{
+"id": 115,
+"expanded": false,
+"name": "Interaction before New Game+",
+"order": 6,
+"parentId": 113,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 116,
+"expanded": false,
+"name": "Factory Ruins: Underground Area",
+"order": 173,
+"parentId": 24,
+"scrollX": 811,
+"scrollY": 635
+},
+{
+"id": 117,
+"expanded": true,
+"name": "Factory Ruins: Area 2",
+"order": 174,
+"parentId": 24,
+"scrollX": 1081.3333333333333,
+"scrollY": 712
+},
+{
+"id": 118,
+"expanded": false,
+"name": "Factory Ruins: Area 3",
+"order": 175,
+"parentId": 24,
+"scrollX": 1081.3333333333333,
+"scrollY": 760
+},
+{
+"id": 119,
+"expanded": true,
+"name": "Mansion: Boss Area",
+"order": 200,
+"parentId": 77,
+"scrollX": 819,
+"scrollY": 449
+},
+{
+"id": 120,
+"expanded": true,
+"name": "Place before ending after Boss",
+"order": 201,
+"parentId": 77,
+"scrollX": 869,
+"scrollY": 607
+},
+{
+"id": 121,
+"expanded": false,
+"name": "Recollection Room: for Hap and End-roll",
+"order": 100,
+"parentId": 87,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 122,
+"expanded": false,
+"name": "Road (for Happening 4)",
+"order": 128,
+"parentId": 18,
+"scrollX": 821,
+"scrollY": 604
+},
+{
+"id": 123,
+"expanded": false,
+"name": "Road (for Happening 5)",
+"order": 131,
+"parentId": 18,
+"scrollX": 811,
+"scrollY": 644
+},
+{
+"id": 124,
+"expanded": true,
+"name": "All Unlocked: Recollection Room",
+"order": 101,
+"parentId": 87,
+"scrollX": 811,
+"scrollY": 1067
+},
+{
+"id": 125,
+"expanded": false,
+"name": "Hap All Unlocked Recollection Room",
+"order": 102,
+"parentId": 124,
+"scrollX": 811,
+"scrollY": 743
+},
+{
+"id": 126,
+"expanded": true,
+"name": "Store Interior (for Ero 3 execution)",
+"order": 27,
+"parentId": 4,
+"scrollX": 811,
+"scrollY": 453
+},
+{
+"id": 127,
+"expanded": false,
+"name": "Massage (for Hap 1 Ero 4 execution)",
+"order": 47,
+"parentId": 40,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 128,
+"expanded": true,
+"name": "Cafe Interior (before Ero 5 execution)",
+"order": 40,
+"parentId": 35,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 129,
+"expanded": true,
+"name": "Road (for Happening 3: execution)",
+"order": 126,
+"parentId": 30,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 130,
+"expanded": true,
+"name": "Road (for Happening 4: execution)",
+"order": 129,
+"parentId": 122,
+"scrollX": 811,
+"scrollY": 603
+},
+{
+"id": 131,
+"expanded": true,
+"name": "Road (for Happening 5: execution)",
+"order": 132,
+"parentId": 123,
+"scrollX": 869,
+"scrollY": 604
+},
+{
+"id": 132,
+"expanded": false,
+"name": "Japanese-style Toilet (for Hap 6 execution)",
+"order": 119,
+"parentId": 17,
+"scrollX": 819,
+"scrollY": 453
+},
+{
+"id": 133,
+"expanded": true,
+"name": "Normal Road (Hap 7: execution)",
+"order": 59,
+"parentId": 58,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 134,
+"expanded": false,
+"name": "Principal and Mai (for Hap 10 recollection)",
+"order": 148,
+"parentId": 20,
+"scrollX": 848,
+"scrollY": 611
+},
+{
+"id": 135,
+"expanded": false,
+"name": "Massage (for Hap recollection)",
+"order": 48,
+"parentId": 40,
+"scrollX": 811,
+"scrollY": 555
+},
+{
+"id": 136,
+"expanded": false,
+"name": "Shop Office (for Hap 2 recollection)",
+"order": 51,
+"parentId": 41,
+"scrollX": 819,
+"scrollY": 445
+},
+{
+"id": 137,
+"expanded": false,
+"name": "Inside Public Bath (for Hap 8 recollection)",
+"order": 37,
+"parentId": 26,
+"scrollX": 811,
+"scrollY": 640
+},
+{
+"id": 138,
+"expanded": true,
+"name": "Normal Road (Hap 7: recollection)",
+"order": 60,
+"parentId": 58,
+"scrollX": 811,
+"scrollY": 507
+},
+{
+"id": 139,
+"expanded": false,
+"name": "General Store (Hap 9: execution)",
+"order": 32,
+"parentId": 25,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 140,
+"expanded": false,
+"name": "General Store (Hap 9: recollection)",
+"order": 33,
+"parentId": 25,
+"scrollX": 832,
+"scrollY": 640
+},
+{
+"id": 141,
+"expanded": false,
+"name": "Japanese-style Toilet (for Hap 6 recollection)",
+"order": 120,
+"parentId": 17,
+"scrollX": 819,
+"scrollY": 453
+},
+{
+"id": 142,
+"expanded": true,
+"name": "Road (for Hap 3 recollection)",
+"order": 127,
+"parentId": 30,
+"scrollX": 819,
+"scrollY": 453
+},
+{
+"id": 143,
+"expanded": true,
+"name": "Road (for Hap 4 recollection)",
+"order": 130,
+"parentId": 122,
+"scrollX": 811,
+"scrollY": 453
+},
+{
+"id": 144,
+"expanded": true,
+"name": "Road (for Hap 5 recollection)",
+"order": 133,
+"parentId": 123,
+"scrollX": 869,
+"scrollY": 445
+},
+{
+"id": 145,
+"expanded": true,
+"name": "Storage Room",
+"order": 88,
+"parentId": 162,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 146,
+"expanded": true,
+"name": "Home 2F: Special Conversations etc.",
+"order": 98,
+"parentId": 37,
+"scrollX": 811,
+"scrollY": 839
+},
+{
+"id": 147,
+"expanded": true,
+"name": "Rental Meeting Room",
+"order": 111,
+"parentId": 15,
+"scrollX": 1131,
+"scrollY": 905
+},
+{
+"id": 148,
+"expanded": false,
+"name": "Video before title: Initial layout",
+"order": 20,
+"parentId": 1,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 149,
+"expanded": true,
+"name": "Recollection: End Roll",
+"order": 7,
+"parentId": 113,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 150,
+"expanded": true,
+"name": "Private Video Store 2F",
+"order": 235,
+"parentId": 114,
+"scrollX": 1131,
+"scrollY": 761
+},
+{
+"id": 151,
+"expanded": true,
+"name": "Private Video Store 3F",
+"order": 236,
+"parentId": 114,
+"scrollX": 811,
+"scrollY": 503
+},
+{
+"id": 152,
+"expanded": false,
+"name": "Late Night Wandering Start Point",
+"order": 238,
+"parentId": 0,
+"scrollX": 811,
+"scrollY": 457
+},
+{
+"id": 153,
+"expanded": true,
+"name": "Abandoned Hospital: Area 2-2",
+"order": 158,
+"parentId": 68,
+"scrollX": 1081.3333333333333,
+"scrollY": 1110.6666666666667
+},
+{
+"id": 154,
+"expanded": true,
+"name": "Late Night Wandering 1",
+"order": 239,
+"parentId": 152,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 155,
+"expanded": false,
+"name": "Late Night Wandering 2",
+"order": 240,
+"parentId": 152,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 156,
+"expanded": true,
+"name": "Prologue: Very First Map",
+"order": 21,
+"parentId": 1,
+"scrollX": 1061,
+"scrollY": 680
+},
+{
+"id": 157,
+"expanded": true,
+"name": "For Tutorial Practice Slash",
+"order": 155,
+"parentId": 109,
+"scrollX": 811,
+"scrollY": 507
+},
+{
+"id": 158,
+"expanded": true,
+"name": "Pool",
+"order": 81,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 159,
+"expanded": false,
+"name": "Pool Changing Room",
+"order": 82,
+"parentId": 158,
+"scrollX": 1638,
+"scrollY": 906
+},
+{
+"id": 160,
+"expanded": true,
+"name": "Kendo Dojo Front",
+"order": 83,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 161,
+"expanded": true,
+"name": "Kendo Dojo",
+"order": 84,
+"parentId": 160,
+"scrollX": 811,
+"scrollY": 603
+},
+{
+"id": 162,
+"expanded": true,
+"name": "Staff Room",
+"order": 87,
+"parentId": 8,
+"scrollX": 1131,
+"scrollY": 969
+},
+{
+"id": 163,
+"expanded": true,
+"name": "Gymnasium Hall",
+"order": 91,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 164,
+"expanded": true,
+"name": "Principal's Office",
+"order": 92,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 165,
+"expanded": false,
+"name": "Library",
+"order": 93,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 166,
+"expanded": true,
+"name": "Second Floor Hallway",
+"order": 94,
+"parentId": 8,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 167,
+"expanded": false,
+"name": "Prologue: Changing Room and Peeping Principal",
+"order": 22,
+"parentId": 1,
+"scrollX": 811,
+"scrollY": 503
+},
+{
+"id": 168,
+"expanded": false,
+"name": "Storage Room (after cleaning)",
+"order": 89,
+"parentId": 162,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 169,
+"expanded": true,
+"name": "Aisle in front of Office President's Room",
+"order": 109,
+"parentId": 65,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 170,
+"expanded": false,
+"name": "Normal: Rio and Mai Conversation",
+"order": 8,
+"parentId": 113,
+"scrollX": 811,
+"scrollY": 457
+},
+{
+"id": 171,
+"expanded": true,
+"name": "Office President's Room",
+"order": 110,
+"parentId": 65,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 172,
+"expanded": false,
+"name": "Recycle Shop (Ero 8)",
+"order": 52,
+"parentId": 41,
+"scrollX": 1404,
+"scrollY": 776.5714285714286
+},
+{
+"id": 173,
+"expanded": false,
+"name": "Rental Meeting Room 2F",
+"order": 112,
+"parentId": 147,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 174,
+"expanded": false,
+"name": "Other End: Rio and Mai Conversation",
+"order": 10,
+"parentId": 113,
+"scrollX": 811,
+"scrollY": 611
+},
+{
+"id": 175,
+"expanded": false,
+"name": "All Ends: Principals",
+"order": 12,
+"parentId": 113,
+"scrollX": 811,
+"scrollY": 459
+},
+{
+"id": 176,
+"expanded": true,
+"name": "Normal: Conversation Recollection",
+"order": 9,
+"parentId": 170,
+"scrollX": 811,
+"scrollY": 603
+},
+{
+"id": 177,
+"expanded": true,
+"name": "Other End: Conversation Recollection",
+"order": 11,
+"parentId": 174,
+"scrollX": 832,
+"scrollY": 611
+},
+{
+"id": 178,
+"expanded": true,
+"name": "All Ends: Principal Conversation Recollection",
+"order": 13,
+"parentId": 175,
+"scrollX": 811,
+"scrollY": 459
+},
+{
+"id": 179,
+"expanded": true,
+"name": "Abandoned Warehouse: Area 4",
+"order": 167,
+"parentId": 45,
+"scrollX": 1081.3333333333333,
+"scrollY": 1124
+},
+{
+"id": 180,
+"expanded": true,
+"name": "Abandoned Warehouse: Area 7",
+"order": 168,
+"parentId": 45,
+"scrollX": 1081.3333333333333,
+"scrollY": 1220
+},
+{
+"id": 181,
+"expanded": true,
+"name": "Factory Ruins: Area 8",
+"order": 179,
+"parentId": 24,
+"scrollX": 1081.3333333333333,
+"scrollY": 808
+},
+{
+"id": 182,
+"expanded": true,
+"name": "Factory Ruins: Area 9",
+"order": 180,
+"parentId": 24,
+"scrollX": 811,
+"scrollY": 972
+},
+{
+"id": 183,
+"expanded": true,
+"name": "Abandoned Building: Area 4",
+"order": 189,
+"parentId": 48,
+"scrollX": 1081.3333333333333,
+"scrollY": 1028
+},
+{
+"id": 184,
+"expanded": true,
+"name": "Abandoned Building: Area 7",
+"order": 190,
+"parentId": 48,
+"scrollX": 1081.3333333333333,
+"scrollY": 1193.3333333333333
+},
+{
+"id": 185,
+"expanded": true,
+"name": "Mansion: Area 4: 3F",
+"order": 202,
+"parentId": 77,
+"scrollX": 1081,
+"scrollY": 1133
+},
+{
+"id": 186,
+"expanded": true,
+"name": "Mansion: Area 5: 3F Continued",
+"order": 203,
+"parentId": 77,
+"scrollX": 1175,
+"scrollY": 1183
+},
+{
+"id": 187,
+"expanded": true,
+"name": "Old School Building: Area 7",
+"order": 226,
+"parentId": 80,
+"scrollX": 1081.3333333333333,
+"scrollY": 846.6666666666666
+},
+{
+"id": 188,
+"expanded": true,
+"name": "Old School Building: Area 8",
+"order": 227,
+"parentId": 80,
+"scrollX": 1081.3333333333333,
+"scrollY": 836
+},
+{
+"id": 189,
+"expanded": false,
+"name": "Park: Late Night Wandering 3",
+"order": 241,
+"parentId": 152,
+"scrollX": 1081.3333333333333,
+"scrollY": 644
+},
+{
+"id": 190,
+"expanded": true,
+"name": "Hospital 3F: Nurse Station",
+"order": 63,
+"parentId": 59,
+"scrollX": 1301,
+"scrollY": 803
+},
+{
+"id": 191,
+"expanded": true,
+"name": "Hospital 4F",
+"order": 64,
+"parentId": 59,
+"scrollX": 1638,
+"scrollY": 906
+},
+{
+"id": 192,
+"expanded": true,
+"name": "Hospital 4F: Surgery Room",
+"order": 65,
+"parentId": 59,
+"scrollX": 1638,
+"scrollY": 906
+},
+{
+"id": 193,
+"expanded": true,
+"name": "Hospital 5F: Hallway in front of Director's Room",
+"order": 67,
+"parentId": 59,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 194,
+"expanded": true,
+"name": "Hospital 5F: Director's Office",
+"order": 68,
+"parentId": 59,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 195,
+"expanded": false,
+"name": "Round Center",
+"order": 242,
+"parentId": 0,
+"scrollX": 811,
+"scrollY": 729
+},
+{
+"id": 196,
+"expanded": true,
+"name": "Shower Room",
+"order": 243,
+"parentId": 195,
+"scrollX": 973.1999999999999,
+"scrollY": 766.8
+},
+{
+"id": 197,
+"expanded": true,
+"name": "Beginner Course",
+"order": 245,
+"parentId": 195,
+"scrollX": 1042.8,
+"scrollY": 1098
+},
+{
+"id": 198,
+"expanded": false,
+"name": "Intermediate Course",
+"order": 246,
+"parentId": 195,
+"scrollX": 1215.6,
+"scrollY": 1534.8
+},
+{
+"id": 199,
+"expanded": true,
+"name": "Advanced Course: Loop Area",
+"order": 247,
+"parentId": 195,
+"scrollX": 1798.8,
+"scrollY": 2490
+},
+{
+"id": 200,
+"expanded": false,
+"name": "Expert Course",
+"order": 248,
+"parentId": 195,
+"scrollX": 1626,
+"scrollY": 478
+},
+{
+"id": 201,
+"expanded": false,
+"name": "Special (Extreme) Course",
+"order": 249,
+"parentId": 195,
+"scrollX": 973,
+"scrollY": 445
+},
+{
+"id": 202,
+"expanded": false,
+"name": "Tool Shop",
+"order": 141,
+"parentId": 19,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 203,
+"expanded": false,
+"name": "Slum Town Room 4",
+"order": 142,
+"parentId": 19,
+"scrollX": 982.8,
+"scrollY": 543.6
+},
+{
+"id": 204,
+"expanded": false,
+"name": "Slum Town Room 5",
+"order": 143,
+"parentId": 19,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 205,
+"expanded": false,
+"name": "Slum Town Room 6",
+"order": 144,
+"parentId": 19,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 206,
+"expanded": false,
+"name": "Mansion: Right Side: Area 1",
+"order": 204,
+"parentId": 77,
+"scrollX": 1081,
+"scrollY": 1124
+},
+{
+"id": 207,
+"expanded": false,
+"name": "Mansion: Right Side: Area 2",
+"order": 205,
+"parentId": 206,
+"scrollX": 1081.3333333333333,
+"scrollY": 1182.6666666666667
+},
+{
+"id": 208,
+"expanded": false,
+"name": "Mansion: Right Side: Area 3",
+"order": 206,
+"parentId": 206,
+"scrollX": 1081.3333333333333,
+"scrollY": 1097.3333333333333
+},
+{
+"id": 209,
+"expanded": false,
+"name": "Mansion: Right Side: Area 4",
+"order": 207,
+"parentId": 206,
+"scrollX": 1217.3333333333333,
+"scrollY": 1806.6666666666667
+},
+{
+"id": 210,
+"expanded": false,
+"name": "Mansion: Right Side: Area 5",
+"order": 208,
+"parentId": 206,
+"scrollX": 1126.6666666666667,
+"scrollY": 1134.6666666666667
+},
+{
+"id": 211,
+"expanded": false,
+"name": "Mansion: Right Side: End",
+"order": 209,
+"parentId": 206,
+"scrollX": 811,
+"scrollY": 1183
+},
+{
+"id": 212,
+"expanded": false,
+"name": "Mansion: Left Side: Area 1",
+"order": 210,
+"parentId": 77,
+"scrollX": 1081.3333333333333,
+"scrollY": 1326.6666666666667
+},
+{
+"id": 213,
+"expanded": false,
+"name": "Mansion: Left Side: Area 2",
+"order": 211,
+"parentId": 212,
+"scrollX": 1081.3333333333333,
+"scrollY": 1076
+},
+{
+"id": 214,
+"expanded": false,
+"name": "Mansion: Left Side: Area 3",
+"order": 212,
+"parentId": 212,
+"scrollX": 1174.6666666666667,
+"scrollY": 1326.6666666666667
+},
+{
+"id": 215,
+"expanded": false,
+"name": "Mansion: Left Side: Area 4",
+"order": 213,
+"parentId": 212,
+"scrollX": 1081.3333333333333,
+"scrollY": 1614.6666666666667
+},
+{
+"id": 216,
+"expanded": false,
+"name": "Mansion: Left Side: Area 5",
+"order": 214,
+"parentId": 212,
+"scrollX": 1081.3333333333333,
+"scrollY": 772
+},
+{
+"id": 217,
+"expanded": false,
+"name": "Mansion: Left Side: End",
+"order": 215,
+"parentId": 212,
+"scrollX": 811,
+"scrollY": 1193
+},
+{
+"id": 218,
+"expanded": true,
+"name": "Abandoned Warehouse: Area 5: MonHouse",
+"order": 169,
+"parentId": 45,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 219,
+"expanded": true,
+"name": "Abandoned Warehouse: Area 6",
+"order": 170,
+"parentId": 45,
+"scrollX": 1081,
+"scrollY": 456
+},
+{
+"id": 220,
+"expanded": true,
+"name": "Factory Ruins: Area 6: MonHouse",
+"order": 181,
+"parentId": 24,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 221,
+"expanded": true,
+"name": "Factory Ruins: Area 7",
+"order": 182,
+"parentId": 24,
+"scrollX": 1081.3333333333333,
+"scrollY": 1076
+},
+{
+"id": 222,
+"expanded": true,
+"name": "Abandoned Building: Area 5: MonHouse",
+"order": 191,
+"parentId": 48,
+"scrollX": 1061,
+"scrollY": 449
+},
+{
+"id": 223,
+"expanded": true,
+"name": "Abandoned Building: Area 6",
+"order": 192,
+"parentId": 48,
+"scrollX": 811,
+"scrollY": 449
+},
+{
+"id": 224,
+"expanded": true,
+"name": "Mansion: Area 6: MonHouse",
+"order": 216,
+"parentId": 77,
+"scrollX": 811,
+"scrollY": 644
+},
+{
+"id": 225,
+"expanded": true,
+"name": "Mansion: Area 7: 4F",
+"order": 217,
+"parentId": 77,
+"scrollX": 1081.3333333333333,
+"scrollY": 1412
+},
+{
+"id": 226,
+"expanded": true,
+"name": "Old School Building: Area 5: MonHouse",
+"order": 228,
+"parentId": 80,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 227,
+"expanded": true,
+"name": "Old School Building: Area 6",
+"order": 229,
+"parentId": 80,
+"scrollX": 1126.6666666666667,
+"scrollY": 1076
+},
+{
+"id": 228,
+"expanded": false,
+"name": "Shower (for Ero 40 execution)",
+"order": 244,
+"parentId": 196,
+"scrollX": 973.1999999999999,
+"scrollY": 788.4
+},
+{
+"id": 229,
+"expanded": true,
+"name": "Kendo Dojo (Ero 39: Ero Degree 100)",
+"order": 85,
+"parentId": 161,
+"scrollX": 811,
+"scrollY": 599
+},
+{
+"id": 230,
+"expanded": true,
+"name": "Hospital 4F: Surgery Room (for Ero 38 execution)",
+"order": 66,
+"parentId": 192,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 231,
+"expanded": false,
+"name": "Private Video (for Ero 37 execution)",
+"order": 237,
+"parentId": 114,
+"scrollX": 1081.3333333333333,
+"scrollY": 777.3333333333334
+},
+{
+"id": 232,
+"expanded": true,
+"name": "Office District (for Hap 11 execution)",
+"order": 115,
+"parentId": 15,
+"scrollX": 1139,
+"scrollY": 637
+},
+{
+"id": 233,
+"expanded": true,
+"name": "Office District (for Hap 11 recollection)",
+"order": 116,
+"parentId": 232,
+"scrollX": 896,
+"scrollY": 803
+},
+{
+"id": 234,
+"expanded": true,
+"name": "For Interaction before and after Scene 32",
+"order": 14,
+"parentId": 113,
+"scrollX": 811,
+"scrollY": 647
+},
+{
+"id": 235,
+"expanded": false,
+"name": "For Interaction before and after Scene 33",
+"order": 15,
+"parentId": 113,
+"scrollX": 811,
+"scrollY": 503
+},
+{
+"id": 236,
+"expanded": true,
+"name": "For Interaction before and after Scene 34",
+"order": 16,
+"parentId": 113,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 237,
+"expanded": true,
+"name": "For Interaction before and after Scene 35",
+"order": 17,
+"parentId": 113,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 238,
+"expanded": false,
+"name": "For Interaction before and after Scene 36",
+"order": 18,
+"parentId": 113,
+"scrollX": 869,
+"scrollY": 680
+},
+{
+"id": 239,
+"expanded": true,
+"name": "Continuation of Scene 36",
+"order": 19,
+"parentId": 238,
+"scrollX": 848,
+"scrollY": 611
+},
+{
+"id": 240,
+"expanded": false,
+"name": "Men's Gag Event: Three-in-a-row Toilets",
+"order": 250,
+"parentId": 0,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 241,
+"expanded": true,
+"name": "Road: Added Hap 12: Recollection",
+"order": 135,
+"parentId": 242,
+"scrollX": 896,
+"scrollY": 467
+},
+{
+"id": 242,
+"expanded": false,
+"name": "Road (Fork): Added Hap 12: Execution",
+"order": 134,
+"parentId": 18,
+"scrollX": 811,
+"scrollY": 467
+},
+{
+"id": 243,
+"expanded": true,
+"name": "Entrance: for Hap 13 execution",
+"order": 75,
+"parentId": 6,
+"scrollX": 811,
+"scrollY": 640
+},
+{
+"id": 244,
+"expanded": true,
+"name": "Entrance: for Hap 13 recollection",
+"order": 76,
+"parentId": 6,
+"scrollX": 811,
+"scrollY": 459
+},
+{
+"id": 245,
+"expanded": true,
+"name": "Rental Meeting Room: for Hap 14 execution",
+"order": 113,
+"parentId": 147,
+"scrollX": 973.1999999999999,
+"scrollY": 903.5999999999999
+},
+{
+"id": 246,
+"expanded": true,
+"name": "Rental Meeting Room: for Hap 14 recollection",
+"order": 114,
+"parentId": 147,
+"scrollX": 973.1999999999999,
+"scrollY": 944.4
+},
+{
+"id": 247,
+"expanded": true,
+"name": "Ero 13 Recollection Start Point",
+"order": 103,
+"parentId": 87,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 248,
+"expanded": true,
+"name": "Patisserie (Interaction before Ero 11)",
+"order": 43,
+"parentId": 14,
+"scrollX": 1228.5,
+"scrollY": 679.5
+},
+{
+"id": 249,
+"expanded": true,
+"name": "Groping Event",
+"order": 145,
+"parentId": 19,
+"scrollX": 811,
+"scrollY": 729
+},
+{
+"id": 250,
+"expanded": false,
+"name": "Groping Insurance Screen",
+"order": 146,
+"parentId": 19,
+"scrollX": 819,
+"scrollY": 457
+},
+{
+"id": 251,
+"expanded": false,
+"name": "Recollection Interaction: Abandoned Hospital Boss",
+"order": 251,
+"parentId": 0,
+"scrollX": 1092,
+"scrollY": 604
+},
+{
+"id": 252,
+"expanded": true,
+"name": "Recollection Interaction: Abandoned Warehouse Boss",
+"order": 252,
+"parentId": 251,
+"scrollX": 832,
+"scrollY": 640
+},
+{
+"id": 253,
+"expanded": true,
+"name": "Recollection Interaction: Factory Ruins Boss",
+"order": 253,
+"parentId": 251,
+"scrollX": 870,
+"scrollY": 624
+},
+{
+"id": 254,
+"expanded": true,
+"name": "Recollection Interaction: Abandoned Building Boss",
+"order": 254,
+"parentId": 251,
+"scrollX": 848,
+"scrollY": 624
+},
+{
+"id": 255,
+"expanded": true,
+"name": "Recollection Interaction: Mansion Boss",
+"order": 255,
+"parentId": 251,
+"scrollX": 848,
+"scrollY": 624
+},
+{
+"id": 256,
+"expanded": true,
+"name": "Recollection Interaction: Old School Building Boss",
+"order": 256,
+"parentId": 251,
+"scrollX": 848,
+"scrollY": 624
+}
+]
