@@ -1,0 +1,292 @@
+#
+
+##About this manual
+◆A manual that highlights the fundamental knowledge 
+　of this game.
+
+
+##Basic Controls
+◆Moving
+　Directional keys: Movement (Diagonal movement allowed)
+　Z・Enter: Speak, Confirm
+　X・Esc: Cancel, Main Menu
+　Shift: Toggle Dash.
+
+◆In conversation
+　Direction keys: Cursor movement
+　Z・Enter: Confirm, Send Message
+　X・Esc: Cancel, Send Message
+
+◆Easy Battle (Action Battle)
+　Z・Enter: Attack, hold to charge attack.
+
+For more details, please refer to the \c[3]"Keyboard Settings"\c[0] 
+and \c[3]"Gamepad Settings"\c[0] in the configuration menu.
+
+##Advanced Operations
+◆Moving
+　D: HP Recovery
+　S: Change Direction
+　C: Jump (only effective in certain scenes)
+
+◆In Conversation
+　A: Auto-scrolling.
+　W Ctrl: Skip
+　Q: Message History
+　Shift: Clear Message Window
+
+◆Anytime
+　F2: Display FPS value.
+　F4: Toggle Full-screen.
+　F5: Forcefully restart the game.
+　Alt + F4: Force quit the game.
+
+##Main Menu Item Descriptions
+◆This is the menu that opens with the cancel key 
+　or similar during gameplay.
+
+　Status: Check Rio's combat power.
+　Erotic Status: Confirming Rio's naughty history.
+　Item: Check and use items.
+　Equipment: Change weapons and armor for battle.
+　Skill: Check and use the skills that Rio has learned.
+　Quest Log: Check current and past quest information.
+
+　Save/Load: Save and load game progress.
+　Environment Settings: Check and modify various settings.
+　Achievements: Check acquired achievements 
+　　　　　　　　  and achievement hints.
+　Manual: This page.
+
+　Title: Return to Title Screen.
+
+##Easy Battle (Action Battle)
+◆Normal battles inside the dungeon are action battles.
+
+　Utilize movement and attacks to swiftly take down 
+　those unruly ruffians.
+
+　You can attack even with a body collision, 
+　but Rio will also take damage.
+　Please be careful as you receive it.
+
+　If you are seeking a more challenging battle, 
+　please adjust the settings in the environment.
+　Turn off \c[3]"damage caused to enemies by physical contact."\c[0]
+
+　Please confirm the details in \c[3]"Instruction Manual"\c[0].
+
+##Normal Battle (Command Battle: Boss Battle)
+◆Boss battles are turn-based command battles.
+
+　Time will not advance until you input a command.
+　Let's cook calmly and carefully.
+
+　Please check the details in the \c[3]"Instruction Manual"\c[0].
+
+##Armor Break
+◆During easy battles (action battles), When taking damage  
+　from some enemies, your outfit gradually becomes tattered.
+　This is called Armor Break.
+
+　Even if Armor Break is used, 
+　Rio's combat power does not change.
+　But it might end up in a naughty situation?
+
+　Mend or break costumes with .
+　the \c[3]"Sewing Set"\c[0] and \c[3]"Scissors"\c[0]
+
+　Please check the details in \c[3]"Instruction Manual"\c[0].
+
+##Survival Shop
+◆This is an equipment shop located in Shin'en Street.
+
+　As the scenario progresses, new lineup will be added.
+　If you equip strong gear, 
+　you will be able to defeat even formidable enemies.
+
+　Please make sure to constantly update your equipment.
+
+##Quest
+◆Completing quests will reward you with useful items 
+　that will aid your game progress.
+　
+
+　If you find someone with a "QUEST" icon in town, 
+　talk to them.
+　
+　Accepted quests can be found in the main menu.
+　You can view it in the "Quest Log".
+
+　Please check the details in \c[3]"Instruction Manual"\c[0].
+
+##Recollection Room
+◆A wonderful space where you can watch unlimited H-events.
+　It's located on the 2nd floor of my house.
+
+　You can also check event unlocking hints.
+
+　Please check the details in the \c[3]"Instruction Manual"\c[0].
+
+##Achievements
+◆This is an element that allows you to obtain 
+　various achievements through various actions.
+
+　Hints for unlocking achievements can be found 
+　in the achievements section of the menu screen.
+
+　Please unlock all achievements without fail.
+
+　Please check the details in \c[3]"Instruction Manual"\c[0].
+
+## Ero Status
+◆ Rio's sexual experience will be reflected in her status.
+
+　What kind of gameplay have you experienced so far?
+　It's a secret status that reveals such things.
+
+　The development level of each part within 
+　the Eros Status screen is a game mechanic.
+　The player's stats increase through various events 
+　within the game.
+　It may not be related to the number of uses.
+
+##Environment Settings (Options)
+◆Various features such as adjusting the volume of music 
+　and other audio, as well as in-game effects.
+　You can configure settings such as items and options.
+
+　Please check the details in \c[3]"Instruction Manual"\c[0].
+
+##Diagonal Movement (Movement Type)
+◆During movement, you can move vertically, 
+　horizontally and diagonally.
+
+　ON: Movement in 8 directions.
+
+　OFF: Movement in 4 directions.
+
+　Please check the details in \c[3]"Instruction Manual"\c[0].
+
+##Various Voices
+　・Master Volume: Adjusts the volume as a whole.
+　・BGM: Music during the game.
+　・BGS: Music during intimate scenes or similar situations.
+　・ME: When moving to your home after winning 
+　　　　or losing a boss battle.
+　・SE: Music that plays basic sound effects.
+　・Voice: Character voices for Rio Kosakai and Mai Higuchi.
+　Voiceovers are used for dialogue scenes 
+　and intimate scenes using character illustrations.
+　This will be used within scenes and so on.
+
+　・Battle Voices: 
+　　　　During regular battles (boss battles) and easy battles.
+　　　　The audio that plays during certain moments, etc.
+
+◆ You can adjust the volume and turn ON/OFF settings 
+　in the configuration.
+　Please set the volume in each respective option.
+　(The volume of battle voices can be adjusted 
+　in the audio settings.)
+
+##Gamepad Settings
+◆Set the key configuration for using the gamepad.
+
+##Key Config Settings
+◆Setting the keyboard layout for key configuration 
+　during keyboard operation.
+
+##Convenience Button (During Conversation)
+◆Display skip and auto function buttons for text.
+
+　You can also skip using keyboard controls, etc.
+　Click the button next to the message window with the mouse.
+　You can also start by clicking.
+
+　It is an object that decides 
+  whether to display such a button or not.
+
+##Convenient Button (During H Scene)
+◆Display buttons for skipping text 
+　and enabling auto function.
+
+　Here, you can determine the settings for the 
+　button display during intimate scenes.
+
+　The basic elements are no different 
+　from those in a conversation.
+　There may be a button to access the settings.
+
+##Displaying Character Sprite (Moving)
+◆This refers to the character illustration displayed 
+　on the right side of the screen during movement.
+
+　You can change the display of standing pictures 
+　from the settings menu.
+　If it's obstructing, it can also be erased.
+
+　However, there may be some slight changes, 
+　so please display it.
+　It would be better to do so.
+
+　Please check the details in \c[3]"Instruction Manual"\c[0].
+
+## Illustration and erotic art animation.
+◆This is a production that takes place in part 
+  of the standing picture and adult scenes.
+　The will animate (move).
+
+　All objects in the animation during the adult scene
+　but there are certain scenes that cannot move.
+　Please understand that this is the situation.
+
+　In the settings, you can change the animation to stop 
+　or use a simplified version.
+
+　Please check the details in \c[3]"Instruction Manual"\c[0].
+
+##Cross-sectional View of Erotic Art
+◆Some images displayed during intimate scenes 
+　will include cross-section views.
+
+
+　When you turn off the display, 
+　the version without cross-section will be shown.
+　The same applies to animations.
+
+##Cut of Erotic Art Image Presentation
+◆During the H scene, 
+　various effects such as screen scrolling will be implemented.
+
+　This effect is separate from the animation.
+
+##Skip the same H scene.
+◆Defeat in Easy Battles and Boss Battles Within Dungeons
+　and have the same H event to be cut
+　can be configured.
+
+　Even if it's set to OFF, 
+　the second time and beyond will still ask.
+　Menu options will be displayed.
+
+##Mini Map
+◆You can choose to display or hide the minimap.
+
+　A minimap will be displayed 
+　in the bottom left corner of the screen.
+　There are some areas where the mini-map is not displayed.
+　Please understand.
+
+　Please check the details in the \c[3]"Instruction Manual"\c[0].
+
+##Boss Difficulty
+◆Change the difficulty level of the boss battle.
+　If the battles feel lackluster, 
+　increase the difficulty for a more challenging experience.
+　Please simplify it if it is too difficult.
+
+　There are difficulty-related achievements,
+　but they can be obtained later.
+
+　Please enjoy playing at your preferred difficulty level.

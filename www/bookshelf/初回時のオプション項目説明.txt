@@ -1,0 +1,159 @@
+#
+
+##Battle Voices
+◆Play Rio's voice during battles 
+　and when entering dungeons.
+
+　This setting is for configuring 
+　the main menu screen in the game.
+　You can change it from the settings. 
+　Cannot be changed from  the environment settings 
+　on the title screen.
+
+##Always Dash
+◆ Always dash while moving.
+　ON: Dash with the directional keys.
+　Hold down the 'Shift' key to walk.
+　
+　OFF: Walk using the arrow keys.
+　Pressing the 'Shift' key while moving allows you to dash.
+
+##Diagonal Movement
+◆While moving, 
+　you can move vertically, horizontally and diagonally.
+　
+　ON: Movement in 8 directions.
+
+　OFF: Movement in 4 directions.
+
+##Command Memory
+◆Remembers the cursor position during command selection.
+　It is set to OFF by default.
+
+##Launch in full screen.
+◆Full screen mode upon game startup
+　It will become (borderless window).
+
+　The settings will be applied 
+　from the next time you start up.
+
+##Various Voices
+◆ Adjust various volumes.
+
+　Overall Volume: All sounds.
+
+　BGM Volume: Music.
+
+　BGS Volume: Music during H scenes.
+
+　ME Volume: Jingle for resting on the home bed.
+
+　SE Volume: Sound Effects.
+
+　Voice Volume: Voices of Rio Osakai and Mai Higuchi.
+　　　　This is also the volume of the battle voices.
+
+##Gamepad Settings
+◆Change gamepad button assignment.
+
+##Keyboard Settings
+◆Change keyboard key assignments.
+
+##Convenient Button (During Conversation)
+◆Display the following buttons during conversation.
+
+　Auto: Message auto-forwarding.
+　Skip: Skip message.
+　Log: Reviewing messages.
+　Voice: Enable voice playback.
+
+##Convenience Button (During H Scene)
+◆Display the following buttons during the H scene.
+
+　Auto: Automatic message forwarding.
+　Skip: Skip message.
+　Log: Message review.
+　Voice: Play the voice.
+　Config: Open settings.
+
+##Displaying Character Graphic (Moving)
+◆Set the opacity of the character sprite during movement.
+
+　Not displayed, Displayed lightly, Displayed heavily
+　You can decide the degree of display like this.
+
+##Character Illustration Animation (Moving)
+◆Animate the standing picture during movement.
+
+　When the transparency of the character illustration 
+　is set to "Not Visible".
+　It will not appear.
+
+　Also, there is some additional load when animating.
+　Please be careful.
+
+## Erotic Art Anime
+◆In the animation-enabled H scene,
+　animate the images.
+
+　Depending on the performance and specifications 
+　of your device, the animation may be accurate.
+　There may be times when it is not always displayed.
+
+　Also, please be aware that there may be 
+　some additional burden.
+
+##The character illustration does not blink.
+◆During conversations, Rio and Mai will blink.
+
+　ON: No blinking.
+
+　OFF: Blinking
+
+##Cross-section of Erotic Art
+◆ Display a cross-sectional view in the H scene 
+　with cross-sectional view support.
+
+##Cutscene of Erotic Art Image
+◆During the H scene, 
+　various effects such as screen scrolling will be performed.
+
+　This effect is separate from the animation.
+
+Skip the same H scene.
+◆ Automatically skip previously viewed H scenes.
+
+　Even when turned OFF, 
+　the option to skip will still be displayed.
+
+##Other Voices
+◆Play the voices of Rio and Mai 
+  (excluding battle voices).
+
+　ON: Enable playback.
+
+　OFF: Disable playback.
+
+　It is set to ON by default.
+
+##Inflict damage on the enemy with a physical attack.
+◆When you collide with an enemy in the dungeon,
+　both the enemy and yourself will take damage.
+
+　When set to OFF, only you will take damage.
+
+##Location Name Display
+◆Display the name of the location 
+　when entering towns or dungeons.
+
+##Minimap
+◆Display a mini-map on the bottom left of the screen.
+
+　There are also areas where some parts of 
+　the mini-map are not displayed.
+
+##Boss Difficulty
+◆Changing the difficulty level of the boss battle.
+
+　There are achievements related to difficulty levels, 
+　but they can be obtained later.
